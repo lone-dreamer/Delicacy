@@ -1,0 +1,225 @@
+<resources>
+    <string name="app_name">Delicacies</string>
+    <string name="app_designed_by"></string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="share_with">Share with</string>
+
+    <string name="nav_header_text">Welcome to Delicacies</string>
+    <string name="nav_recycler_view">List View</string>
+    <string name="nav_scrolling">Detailed description </string>
+
+    <string name="nav_fullscreen">Fullscreen</string>
+
+    <string name="nav_bottom_navigation">Bottom Navigation</string>
+
+    <string name="nav_settings">Settings</string>
+
+    <string name="nav_bottom_appbar">Bottom App Bar</string>
+    <string name="nav_about">About</string>
+    <string name="nav_donate">Donations</string>
+    <string name="main_feedback_email">Feedback:MaterialDesign2</string>
+    <string name="main_not_found_email">Not found email app</string>
+    <string name="nav_my_apps">My Apps</string>
+
+    <string name="tab_title_main_1">Food</string>
+    <string name="tab_title_main_2">Comment</string>
+    <string name="tab_title_main_3">Picture</string>
+
+    <string name="main_snack_bar">This is a snack bar</string>
+    <string name="main_snack_bar_action">Okay</string>
+
+    <string name="main_card_title">Title goes here</string>
+    <string name="main_card_with_stroke_title">Wish you a good day</string>
+    <string name="main_card_title_short">Title</string>
+    <string name="main_card_subtitle">Subtitle here</string>
+    <string name="main_card_details">Details here</string>
+    <string name="main_card_button_1">Like</string>
+    <string name="main_card_button_2">Dislike</string>
+    <string name="main_flat_button_1_clicked">Action 1</string>
+    <string name="main_flat_button_2_clicked">Action 2</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_neutral">Neutral</string>
+    <string name="dialog_close">Close</string>
+    <string name="main_dialog_simple">Simple dialog</string>
+    <string name="main_dialog_simple_title">A simple dialog</string>
+    <string name="main_dialog_simple_message">
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion. "
+        "\nThe material is grounded in tactile reality, inspired by the study of paper and ink, yet technologically advanced and open to imagination and magic."</string>
+    <string name="main_dialog_single_choice">Single choice dialog</string>
+    <string name="main_dialog_multi_choice">Multi choice dialog</string>
+    <string name="main_dialog_progress_title">Progress dialog…</string>
+    <string name="main_dialog_progress">Progress dialog</string>
+    <string name="main_dialog_data_picker">Date Picker Dialog</string>
+    <string name="main_dialog_data_time">Time Picker Dialog</string>
+    <string name="main_dialog_bottom">Bottom Dialog</string>
+    <string name="main_dialog_fullscreen">Fullscreen Dialog</string>
+    <string name="main_popup_menu">Popup Menu</string>
+
+    <string name="main_widget_material_button">Material Buttons</string>
+    <string name="main_widget_material_button_default">Round corner button</string>
+    <string name="main_widget_material_button_stroke">Button with stroke</string>
+    <string name="main_widget_material_button_unelevated">Unelevated button</string>
+    <string name="main_widget_material_button_outline">Outlined button</string>
+    <string name="main_widget_material_button_text">Text button</string>
+    <string name="main_widget_material_button_icon">Icon button</string>
+    <string name="main_widget_toggle_button">Toggle Button</string>
+    <string name="main_widget_toggle_group">Button Toggle Group</string>
+    <string name="main_widget_switch">Switch</string>
+    <string name="main_widget_check_box">Check Box</string>
+    <string name="main_widget_check_box_1">CheckBox 1</string>
+    <string name="main_widget_check_box_2">CheckBox 2</string>
+    <string name="main_widget_check_box_3">CheckBox 3</string>
+    <string name="main_widget_radio">Radio Group and Radio Buttons</string>
+    <string name="main_widget_radio_button_1">RadioButton 1</string>
+    <string name="main_widget_radio_button_2">RadioButton 2</string>
+    <string name="main_widget_radio_button_3">RadioButton 3</string>
+    <string name="main_widget_seek_bar">Seek Bar</string>
+    <string name="main_widget_progress_bar">Progress Bar</string>
+    <string name="main_widget_extract_edit_text">Extract Edit Text</string>
+    <string name="main_widget_text_input_layout">Text Input Layout</string>
+    <string name="main_widget_edit_text_outline_box">Outlined Box</string>
+    <string name="main_widget_edit_text_filled_box">Filled Box</string>
+    <string name="main_widget_spinner">Spinner</string>
+    <string name="main_widget_data_picker">Date Picker</string>
+    <string name="main_widget_time_picker">Time Picker</string>
+    <string name="main_widget_chip">Chips</string>
+
+    <string name="title_activity_recycler_view">RecyclerView</string>
+    <string name="tv_recycler_item_1">Swipe down to refresh</string>
+    <string name="tv_recycler_item_2">Swipe left or right to dismiss it</string>
+    <string name="tv_recycler_item_3">Drag up or down to move it</string>
+    <string name="title_activity_share_view">Share View</string>
+    <string name="share_view_press_it">You can press it</string>
+    <string name="no_more_data">No more data</string>
+    <string name="item_swipe_dismissed">Dismissed</string>
+    <string name="item_swipe_undo">Undo</string>
+    <string name="extended_fab">Extended Fab</string>
+
+    <!-- Strings related to Scrolling -->
+    <string name="title_activity_scrolling">detailed</string>
+    <string name="large_text">
+        "忠孝廉仁智礼义，难得一信 / 酸甜苦辣麻涩咸，每味十足"
+        "\n\n柴米油盐酱醋茶，但求一饱 / 喜怒哀乐狂痴愤，难逃一情"
+        "每个中国人，几乎都要跟柴米油盐酱醋茶打交道。它平平淡淡，是你生活里的一部分，平淡到你都不会太注意它。但它是你生命记忆里的一部分，抹也抹不去，变也变不了，朴实又亲切。 "
+        "枯枝荆棘烂藤条 / 并入炉膛雍火苗 / 饭好菜香灰入瓮 / 暖身品茗伴闲聊"
+        "\n像柴一样燃烧自己，并且燃烧得越大越好，要让人和你一接触就能够感受到你的能量，你的热情。"
+        "因此做人热情很重要，一个人没有热情的人将无法影响别人，也不可能做成一件像样的事情。 "
+        "生来就着淡黄袍 / 石臼舂开露玉膏 / 粒粒珍珠天赐予 / 煮来饭粥也为糕"
+        "像米一样，米告诉我们，能填饱肚子，能提供营养给大家，"
+        "\n因此做人一定要对别人有用实在，没有实在有用的价值任何人都不可能与你长期合作。 "
+        "一个人能够有被利用的价值才是你生存的根本，为此我们必须终身保持自己独特的实用价值"
+        "这种价值越是无可替代，你就能够赢得更多人缘与机会。"
+        "\n\n果茎榨取去其渣 /"
+        "\n\n 糟尽只余精和华 /  "
+        "未及开坊香四溢 /
+        "烹调烧炒一奇葩"
+        "油能润滑一切，因此做人要少一点磨擦，多一点润滑，这样做人做事你就能够让人喜欢你。"
+        "但是油绝对不是让我们圆滑，而是要有原则的润滑，圆滑的人是不会讨人喜欢。"
+        "\n取来海水入池坊 /"
+        "\n 铁釜烧蒸装满筐 / "
+        "\n\n剔透水晶珠玉粒 / "
+        "\n\n调和五味菜飘香 "
+        "如果这个世界没有盐，一切食物都无味，人长期没有盐的吸收就会变得有气无力"
+        "\n因此做人要有点味，一个人只有有一点幽默才能够很好的处理好各种关系，才能够让人喜欢， "
+        "每个人都喜欢和有点味的人交往，那种非常死板的人是不受人欢迎的。"
+        "\n煮蒸豆豉去其糟 /  "
+        "\n白面轻敷挂素绦 /"
+        "\n\n 日浴夜淋终发酵 / "
+        "\n\n  水盐调拌紫葡萄 "
+        "忠孝廉仁智礼义，难得一信 / 酸甜苦辣麻涩咸，每味十足"
+        "\n\n柴米油盐酱醋茶，但求一饱 / 喜怒哀乐狂痴愤，难逃一情"
+        "每个中国人，几乎都要跟柴米油盐酱醋茶打交道。它平平淡淡，是你生活里的一部分，平淡到你都不会太注意它。但它是你生命记忆里的一部分，抹也抹不去，变也变不了，朴实又亲切。 "
+        "枯枝荆棘烂藤条 / 并入炉膛雍火苗 / 饭好菜香灰入瓮 / 暖身品茗伴闲聊"
+        "\n像柴一样燃烧自己，并且燃烧得越大越好，要让人和你一接触就能够感受到你的能量，你的热情。"
+        "因此做人热情很重要，一个人没有热情的人将无法影响别人，也不可能做成一件像样的事情。 "
+        "生来就着淡黄袍 / 石臼舂开露玉膏 / 粒粒珍珠天赐予 / 煮来饭粥也为糕"
+        "像米一样，米告诉我们，能填饱肚子，能提供营养给大家，"
+        "\n因此做人一定要对别人有用实在，没有实在有用的价值任何人都不可能与你长期合作。 "
+        "一个人能够有被利用的价值才是你生存的根本，为此我们必须终身保持自己独特的实用价值"
+        "这种价值越是无可替代，你就能够赢得更多人缘与机会。"
+        "\n\n果茎榨取去其渣 /"
+        "\n\n 糟尽只余精和华 /  "
+        "未及开坊香四溢 /
+        "烹调烧炒一奇葩"
+        "油能润滑一切，因此做人要少一点磨擦，多一点润滑，这样做人做事你就能够让人喜欢你。"
+        "但是油绝对不是让我们圆滑，而是要有原则的润滑，圆滑的人是不会讨人喜欢。"
+        "\n取来海水入池坊 /"
+        "\n 铁釜烧蒸装满筐 / "
+        "\n\n剔透水晶珠玉粒 / "
+        "\n\n调和五味菜飘香 "
+        "如果这个世界没有盐，一切食物都无味，人长期没有盐的吸收就会变得有气无力"
+        "\n因此做人要有点味，一个人只有有一点幽默才能够很好的处理好各种关系，才能够让人喜欢， "
+        "每个人都喜欢和有点味的人交往，那种非常死板的人是不受人欢迎的。"
+        "\n煮蒸豆豉去其糟 /  "
+        "\n白面轻敷挂素绦 /"
+        "\n\n 日浴夜淋终发酵 / "
+        "\n\n  水盐调拌紫葡萄 "
+    </string>
+
+    <string name="change_bottom_bar_text">Change bottom bar cutout properties:</string>
+    <string name="right_align">Right Align</string>
+    <string name="zero_radius">Zero Radius</string>
+    <string name="zero_margin">Zero Margin</string>
+    <string name="show_title">Show Title</string>
+
+    <!-- Strings related to Settings -->
+    <string name="settings_category_basic">Basic Settings</string>
+    <string name="settings_category_advanced">Advanced Settings</string>
+    <string name="settings_category_other">Other Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="settings_switch_preference_title">Switch Preference</string>
+    <string name="settings_switch_preference_summary">Switch Preference Summary</string>
+    <string name="settings_check_box_preference_title">Check Box Preference</string>
+    <string name="settings_edit_text_preference_title">Edit Text Preference</string>
+    <string name="settings_edit_text_preference_default_value">Material Design 2</string>
+    <string name="settings_list_preference_dialog_title">List Preference</string>
+    <string name="settings_list_preference_title">List Preference</string>
+    <string name="settings_multi_select_list_preference_dialog_title">Multi Select List Preference</string>
+    <string name="settings_multi_select_list_preference_title">Multi Select List Preference</string>
+    <string name="settings_preference_click_title">OnPreferenceClickListener</string>
+    <string name="settings_preference_click_to_activity">Click to start an activity</string>
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="pref_on_preference_click">onPreferenceClick</string>
+
+    <string name="activity_my_apps">My Apps</string>
+
+    <!-- String related to About -->
+    <string name="title_activity_about">About</string>
+    <string name="about_version">Version: </string>
+    <string name="about_email_intent">Feedback:MaterialDesign2</string>
+    <string name="about_not_found_email">Not found email app</string>
+    <string name="about_card1_title">Material Design Demo</string>
+    <string name="about_card1_message">Hey, glad to see you!</string>
+    <string name="about_card2_title">Show the delicacies of various regions </string>
+    <string name="about_google_play">Rate on Google play</string>
+    <string name="about_email">Feedback by E-mail</string>
+    <string name="about_git_hub">Source code on GitHub</string>
+    <string name="about_address">Beijing, China</string>
+    <string name="about_website">View my website</string>
+    <string name="about_source_licenses">Open source licenses</string>
+
+    <!-- String related to Ad -->
+    <string name="banner_ad_title">Advertise</string>
+    <string name="banner_ad_loading">Ads loading …</string>
+
+    <!-- String related to Donate -->
+    <string name="activity_donate">Donations</string>
+    <string name="donate">Donate</string>
+    <string name="donated">Donated</string>
+    <string name="donate_title">I Would Be Very Grateful If You Could Donate Me ! </string>
+    <string name="donate_title_after">Thanks For Your Donations, I Am Very Grateful ! </string>
+    <string name="donate_low">1.99 USD</string>
+    <string name="donate_high">9.99 USD</string>
+    <string name="donate_exception">Sorry, Failed!</string>
+
+    <string name="native_ad_unit_id_main_card">Heyhello</string>
+</resources>
